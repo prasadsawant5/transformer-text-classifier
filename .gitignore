@@ -1,0 +1,7 @@
+*inf.csv
+saved_models/*
+.idea
+best_model
+best_model1
+__pycache__
+logs
